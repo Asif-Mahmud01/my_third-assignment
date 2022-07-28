@@ -1,0 +1,21 @@
+.cover-image{
+    filter: brightness(60%);
+}
+/* join section */
+button.btn.btn-light {
+    height: 52px;
+}
+
+/* question section */
+.accordion-item {
+    width: 500px;
+}
+.question{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .question section */
+
